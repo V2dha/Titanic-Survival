@@ -14,7 +14,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
 # %% [code]
 import scipy.optimize as opt
 from sklearn import preprocessing
-%matplotlib inline
+#%matplotlib inline
 import matplotlib.pyplot as plt
 
 # %% [code]
